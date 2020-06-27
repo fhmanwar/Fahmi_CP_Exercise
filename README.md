@@ -105,6 +105,7 @@
 
 
 :: PSEUDOCODE PERSEGI::
+
     double Luas,sisi_1,sisi_2
     set_A(double a):
         this.sisi_1 = a
@@ -121,6 +122,7 @@
 
 
 :: PSEUDOCODE PERSEGI_PANJANG ::
+
     double Luas,panjang,lebar
 
     set_A(double a):
@@ -137,6 +139,7 @@
             output(e)
 
 :: PSEUDOCODE SEGITIGA ::
+
     double Luas,alas,tinggi
 
     set_A(double a):
@@ -153,6 +156,7 @@
             output(e)
 
 :: PSEUDOCODE LINGKARAN ::
+
     double Luas,r
 
     set_A(double a):
@@ -169,6 +173,7 @@
             output(e)
 
 :: PSEUDOCODE JAJAR_GENJANG ::
+
     double Luas,jumlah_sisi,tinggi
 
     set_A(double a):
