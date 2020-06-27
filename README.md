@@ -1,6 +1,6 @@
 # Fahmi_CP_Exercise
 
-:: PSEUDOCODE CETAK_OPERASI::
+:: PSEUDOCODE Luas_Bangun_Datar ::
 
     void cetaksemua(L_Bangun_Datar L_BD,double a, double b):
         L_BD.set_A(a)
@@ -104,7 +104,7 @@
         
 
 
-:: PSEUDOCODE PERSEGI::
+:: PSEUDOCODE Persegi ::
 
     double Luas,sisi_1,sisi_2
     set_A(double a):
@@ -121,7 +121,7 @@
             output(e)
 
 
-:: PSEUDOCODE PERSEGI_PANJANG ::
+:: PSEUDOCODE Persegi Panjang ::
 
     double Luas,panjang,lebar
 
@@ -138,7 +138,7 @@
         catch (ArithmeticException e):
             output(e)
 
-:: PSEUDOCODE SEGITIGA ::
+:: PSEUDOCODE Segitiga ::
 
     double Luas,alas,tinggi
 
@@ -155,7 +155,7 @@
         catch (ArithmeticException e):
             output(e)
 
-:: PSEUDOCODE LINGKARAN ::
+:: PSEUDOCODE Lingkaran ::
 
     double Luas,r
 
@@ -172,7 +172,7 @@
         catch (ArithmeticException e):
             output(e)
 
-:: PSEUDOCODE JAJAR_GENJANG ::
+:: PSEUDOCODE Trapesium ::
 
     double Luas,jumlah_sisi,tinggi
 
